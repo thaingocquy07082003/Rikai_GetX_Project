@@ -1,0 +1,5 @@
+url_constant : Chứa các API tới server lấy dữ liệu
+color_constant : chứa các mã màu dùng tới trong project 
+dataource :  gọi lấy data từ API 
+
+Mô tả : Xây dựng màn hình trang chủ (Home) hiển thị kết quả lấy từ API 
